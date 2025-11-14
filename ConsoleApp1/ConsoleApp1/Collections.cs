@@ -1,7 +1,7 @@
 
 
 using System.Collections;
-using System.Net;
+using System.Diagnostics;
 
 class Collections
 {
@@ -94,7 +94,8 @@ class Collections
 
         if (dick2.TryGetValue(2, out string state))
         {
-            Console.WriteLine($"Value for key 2 is {state}");
+            // Console.WriteLine($"Value for key 2 is {state}");
+            Debug.WriteLine($"Value for key 2 is {state}"); // will print only in debug mode
         } else {
             Console.WriteLine("Key not found");
         }
