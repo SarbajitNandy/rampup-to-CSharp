@@ -27,3 +27,8 @@ F:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp
 F:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
 F:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 F:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+f:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+f:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+f:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Npgsql.dll
+f:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.AssemblyReference.cache
+f:\.NetProj\rampup-to-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleA.CB28C8CC.Up2Date

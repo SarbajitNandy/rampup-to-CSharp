@@ -104,15 +104,15 @@ class Collections
     
     
     
-    static void Main(string[] args)
-    {
-        // basicsArray();
+    // static void Main(string[] args)
+    // {
+    //     // basicsArray();
 
-        // learnHashtable();
-        learnDictionary();
+    //     // learnHashtable();
+    //     learnDictionary();
 
-        // PrintDictionaryValues();
-    }
+    //     // PrintDictionaryValues();
+    // }
 }
 
 
